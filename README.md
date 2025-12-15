@@ -217,6 +217,4 @@ Final Year CSBS Student | AI & Python Developer
 If you found this project helpful, please ⭐ **star the repository** — it really helps!
 
 ---
----
 
-# Ai-based-video-analyzer
