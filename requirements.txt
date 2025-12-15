@@ -1,0 +1,21 @@
+streamlit
+
+# Core AI / ML
+torch
+torchvision
+transformers
+openai-whisper
+
+# Vision & Media
+opencv-python
+pillow
+imageio
+imageio-ffmpeg
+
+# LLM (Local)
+langchain-core
+langchain-community
+langchain-ollama
+
+# Utilities
+numpy
