@@ -219,3 +219,4 @@ If you found this project helpful, please ⭐ **star the repository** — it rea
 ---
 ---
 
+# Ai-based-video-analyzer
